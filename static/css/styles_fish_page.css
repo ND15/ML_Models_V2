@@ -49,28 +49,36 @@ h2
 .linear
 {
     position: relative;
-    top: 40%;
-    left: 50%;
-    margin: 0px 0 0 -150px;
+	top: 40%;
+	left: 50%;
+	margin: -100px 0 0 -100px;
+	width:200px;
+	height:200px;
 }
 .dtr
 {
     position: relative;
-    top: 40%;
-    left: 50%;
-    margin: 0px 0 0 -150px;
+	top: 40%;
+	left: 50%;
+	margin: -100px 0 0 -100px;
+	width:200px;
+	height:200px;
 }
 .svr
 {
     position: relative;
-    top: 40%;
-    left: 50%;
-    margin: 0px 0 0 -150px;
+	top: 40%;
+	left: 50%;
+	margin: -100px 0 0 -100px;
+	width:200px;
+	height:200px;
 }
 .rtr
 {
     position: relative;
-    top: 40%;
-    left: 50%;
-    margin: 0px 0 0 -150px;
+	top: 40%;
+	left: 50%;
+	margin: -100px 0 0 -100px;
+	width:200px;
+	height:200px;
 }
