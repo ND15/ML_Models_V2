@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Random Tree Regression</title>
+        <link rel="stylesheet" href="../static/css/styles_rtr_fish.css">
+    </head>
+    <body>
+        <div class="svr">
+            <form action="{{url_for('rtr_fish')}}" method="post">
+                <input type="text" name="age" placeholder="age" required="required" class="input1 in1">
+                <button type="submit" class="btn btn1">Predict</button>
+            </form>
+            <br>
+            {{ prediction_text }}
+            <br>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,81 @@
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans);
+
+h1
+{
+    text-align: center;
+    font-family: 'Open Sans';
+}
+body
+{
+    background-image: linear-gradient(to right, rgb(83, 253, 40),rgb(0, 255, 242));
+}
+h2
+{
+    text-align: center;
+    font-family: 'Open Sans';
+}
+.btn1
+{
+    background-color:rgb(250, 105, 20);
+    border:2px solid;
+    color: aliceblue;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 8px;
+}
+.btn2
+{
+    width: 195px;
+    background-color:rgb(250, 105, 20);
+    border: 2px solid;
+    color: rgb(240, 255, 241);
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 8px;
+}
+.btn3
+{
+    width: 195px;
+    background-color:rgb(250, 105, 20);
+    border: 2px solid;
+    color: aliceblue;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 8px;
+}
+div
+{
+    margin:0px -150px 0 -150px;
+    padding: 15px;
+}
+.linear
+{
+    position: relative;
+    top: 40%;
+    left: 50%;
+    margin: 0px 0 0 -150px;
+}
+.dtr
+{
+    position: relative;
+    top: 40%;
+    left: 50%;
+    margin: 0px 0 0 -150px;
+}
+.svr
+{
+    position: relative;
+    top: 40%;
+    left: 50%;
+    margin: 0px 0 0 -150px;
+}
+.rtr
+{
+    position: relative;
+    top: 40%;
+    left: 50%;
+    margin: 0px 0 0 -150px;
+}

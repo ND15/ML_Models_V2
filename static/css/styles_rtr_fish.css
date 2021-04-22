@@ -1,0 +1,33 @@
+body
+{
+    background-image: linear-gradient(to left, rgb(0, 255, 200), rgb(182, 252, 21));
+}
+.svr
+{
+    position: relative;
+    top: 40%;
+    left: 50%;
+    margin: 0px 0 0 -150px;
+    width:400px;
+    height:400px;
+}
+.btn
+{
+    padding: 10px;
+    border: none;
+    background-color: rgb(247, 122, 6);
+}
+.btn1
+{
+    border-radius: 5px;
+}
+.input1
+{
+    padding: 10px;
+    border: none;
+    background-color: bisque;
+}
+.in1
+{
+    border-radius: 5px;
+}

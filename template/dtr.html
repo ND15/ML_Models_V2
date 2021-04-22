@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>Decision Tree Regression</title>
+        <link rel="stylesheet" href="../static/css/styles_dtr.css">
+    </head>
+    <body>
+        <div class="dtr">
+            <form action="{{url_for('dtr')}}" method="post">
+                <input type="text" name="age" placeholder="age" required="required" class="input1 in1">
+                <button type="submit" class="btn btn1">Predict</button>
+            </form>
+            <br>
+            {{ prediction_text }}
+        </div>
+    </body>
+</html>

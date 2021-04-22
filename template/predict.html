@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>Linear Regression</title>
+        <link rel="stylesheet" href="../static/css/styles_predict.css">
+    </head>
+    <body>
+    <div class="linear">
+        <form action="{{url_for('predict')}}" method="post">
+            <input type="text" name="age" placeholder="age" required="required" class="input1 in1">
+            <button type="submit" class="predict lr">Predict</button>
+        </form>
+        <br>
+        {{ prediction_text }}
+    </div>
+    </body>
+</html>
